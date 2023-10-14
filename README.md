@@ -11,7 +11,7 @@ A To-Do List application is a useful project that helps users manageand organize
 
 My Submission - https://github.com/aloknxtlv/CodSoft/blob/main/To%20do%20list.md?plain=1
 
-# (3) Rock-Paper-Scissors Game
+# (3) ROCK-PAPER-SCISSORS GAME
 User Input: Prompt the user to choose rock, paper, or scissors. Computer Selection: Generate a random choice (rock, paper, or scissors) for the computer.
 Game Logic: Determine the winner based on the user's choice and the computer's choice. Rock beats scissors, scissors beat paper, and paper beats rock.
 Display Result: Show the user's choice and the computer's choice.
