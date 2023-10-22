@@ -1,17 +1,19 @@
 # CodSoft
 # Python Programming Internship
 # My Three Tasks are -
-# (1) CALCULATOR
-Design a simple calculator with basic arithmetic operations. Prompt the user to input two numbers and an operation choice. Perform the calculation and display the result.
-
-My Submission - https://github.com/aloknxtlv/CodSoft/blob/main/Calculator.md?plain=1
-
-# (2) TO-DO LIST
+# (1) TO-DO LIST (Task 1)
 A To-Do List application is a useful project that helps users manageand organize their tasks efficiently. This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists
 
 My Submission - https://github.com/aloknxtlv/CodSoft/blob/main/To%20do%20list.md?plain=1
 
-# (3) ROCK-PAPER-SCISSORS GAME
+
+# (2) CALCULATOR (Task 2) 
+Design a simple calculator with basic arithmetic operations. Prompt the user to input two numbers and an operation choice. Perform the calculation and display the result.
+
+My Submission - https://github.com/aloknxtlv/CodSoft/blob/main/Calculator.md?plain=1
+
+
+# (3) ROCK-PAPER-SCISSORS GAME (Task 4) 
 User Input: Prompt the user to choose rock, paper, or scissors. Computer Selection: Generate a random choice (rock, paper, or scissors) for the computer.
 Game Logic: Determine the winner based on the user's choice and the computer's choice. Rock beats scissors, scissors beat paper, and paper beats rock.
 Display Result: Show the user's choice and the computer's choice.
